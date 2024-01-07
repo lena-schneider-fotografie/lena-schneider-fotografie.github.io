@@ -1,27 +1,45 @@
 ---
-title: Script Using Pencil
+title: Familien
 date: 2022-01-10 08:01:35 +0300
-subtitle: Calligraphy
-image: '/images/project-1.jpg'
+subtitle: Ein Satz zu Familien-Shooting
+image: '/images/portfolio/familien/familien.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+# eins
+
+Vielleicht kommt es euch bekannt vor: Mama oder Papa fehlen grundsätzlich auf den Erinnerungsfotos für’s Familienalbum. 
+Wie gut, dass Ihr auf mich aufmerksam geworden seid und wir das hiermit ändern werden! 
+
+Ich finde Menschen und Familien absolut einzigartig und wunderschön in ihrer Liebe zueinander und ihrer Individualität. 
+
+Stellt euch die kleinen, funkelnden Kinderaugen vor während sie auf Mama oder Papa zurennen, Umarmungen, tränen, toben mit den Geschwistern - alles ist erlaubt.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/familien/galerie-2.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/familien/galerie-1.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/familien/galerie-3.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+## zwei
+
+Ebenso zur Familie gehören eure Haustiere: 
+
+Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Eure Kinder sollen toben, lachen, weinen, ....
+
+Ich möchte, dass Ihr euch an diese Momente noch lange zurückerinnern könnt und euch jedes Mal freut, wenn das Familienalbum gezückt wird.  
+
+Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
+
+
+
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/familien/galerie-4.jpg" loading="lazy" alt="Project">
+
   </div>
 </div>
 
