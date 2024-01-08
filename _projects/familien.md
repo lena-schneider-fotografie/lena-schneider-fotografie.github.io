@@ -26,8 +26,6 @@ Stellt euch nur mal die kleinen, funkelnden Kinderaugen vor während sie auf Mam
 
 ## zwei
 
-Eure pelzigen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. Von verspielten Hunden bis zu neugierigen Katzen. 
-
 Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn genau diese authentischen Momente machen eure Familiengeschichte einzigartig. 
 
 Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
@@ -44,6 +42,4 @@ Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentiere
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+Eure pelzigen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. Von verspielten Hunden bis zu neugierigen Katzen. 
