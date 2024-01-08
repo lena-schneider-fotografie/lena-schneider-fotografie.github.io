@@ -49,8 +49,12 @@ social:
 hero:
   hero__title: Hey, ich bin Lena
   hero__description: 
-    eure Fotografin für die besonderen Momente im Leben. 
-    Lasst uns gemeinsam eure Geschichte erzählen. Echt, emotional, und natürlich. 
+    eure Fotografin mit einer Leidenschaft für die Einzigartigkeit von Menschen und Familien. 
+    <br></br>
+    Für mich sind nicht nur Fotos, sondern auch die Geschichten hinter den Beziehungen von unschätzbarem Wert. 
+    Jede Familie hat eine einzigartige Geschichte, von den ersten Tagen einer jungen Familie bis zu den gemeinsam verbrachten Jahren. 
+    Diese Geschichten inspirieren mich und spiegeln sich in meinen Fotografien wider. 
+  
 
   hero__image: '/images/01-1.jpg'
 
@@ -66,7 +70,7 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
+  projects__title: Deine Geschichte - meine Pakete 
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 
