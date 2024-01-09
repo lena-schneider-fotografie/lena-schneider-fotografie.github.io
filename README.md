@@ -1,3 +1,48 @@
+# Quickstart
+
+## an der Seite lokal arbeiten:
+
+Die Seite kann lokal von Jekyll gebaut and ngeschaut werden.
+
+- falls keines offen ist, Terminal in VSCode starten (Menü oben: Terminal > New Terminal)
+- `bundle exec jekyll serve` in das Terminal eingeben und enter drücken - Seite lokal starten
+- gehe zu http://127.0.0.1:4000/ um die Seite lokal anzusehen
+- um die Seite zu stoppen, im Terminal `control + c`.
+
+## Seite live schalten
+
+Die live-version der Seite ist auf https://lenaschneider.photography gehostet. Um sie zu updaten:
+
+- Speichere alle Änderungen
+- In VSCode, gehe zum Source control menu
+- Commit-Nachricht oben eingeben (zum Beispiel was du geändert hast)
+- `Commit` drücken
+- `Sync` drücken
+- Die Änderungen werden auf GitHub (https://github.com/lena-schneider-fotografie/lena-schneider-fotografie.github.io) hochgeladen, die Seite automatisch gebaut und in der neuen Version live geschaltet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hilton – super simple portfolio theme for Jekyll
 
 The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
