@@ -9,9 +9,9 @@ In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Sc
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/schwangerschaft/babybauch-2.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/schwangerschaft/babyybauch-1.jpg" loading="lazy" alt="Project">
+    <img src="/images/portfolio/schwangerschaft/babybauch-4.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
