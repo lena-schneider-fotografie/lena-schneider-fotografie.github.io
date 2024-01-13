@@ -25,6 +25,27 @@
                   {% if project.subtitle %}
                     <div class="project__subtitle">{{ project.subtitle }}</div>
                   {% endif %}
+                  {% if project.description %}
+                  <div class="project__description">{{ project.description }}</div>
+                  {% endif %}
+                  {% if project.photo_amount %}
+                  <div class="project__photo__amount">
+                    <i class="ion ion-ios-images"></i>
+                    {{ project.photo_amount }}
+                  </div>
+                  {% endif %}    
+                  {% if project.duration %}
+                  <div class="project__duration">
+                    <i class="ion ion-ios-timer"></i>
+                    {{ project.duration }}
+                  </div>
+                  {% endif %}    
+                  {% if project.price %}
+                  <div class="project__price">
+                    <i class="ion ion-ios-pricetags"></i>
+                    {{ project.price }}
+                  </div>
+                  {% endif %}    
                 </div>
               </div>
             </article>

@@ -1,8 +1,11 @@
 ---
-title: Newborn
+title: Newborn Reportage
 date: 2022-01-08 08:01:35 +0300
 subtitle: Neues Leben
 image: '/images/project-3.jpg'
+duration: 90min
+photo_amount: 30 Fotos
+price: Ab 300€
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
@@ -16,7 +19,13 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+- 1,5-Stunden Shooting
+
+- mindestens 30 Fotos
+
+- Anfahrt im Umkreis von .... km 
+
+- ab 350€*
 
 <div class="gallery-box">
   <div class="gallery">

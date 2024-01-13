@@ -3,6 +3,9 @@ title: Familien
 date: 2022-01-10 08:01:35 +0300
 subtitle: Familienglück im Fokus
 image: '/images/portfolio/familien/familien.jpg'
+duration: 30 - 90min
+photo_amount: 10 - 30 Fotos
+price: Ab 200€
 ---
 
 # eins

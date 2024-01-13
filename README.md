@@ -20,7 +20,9 @@ Die live-version der Seite ist auf https://lenaschneider.photography gehostet. U
 - `Sync` drücken
 - Die Änderungen werden auf GitHub (https://github.com/lena-schneider-fotografie/lena-schneider-fotografie.github.io) hochgeladen, die Seite automatisch gebaut und in der neuen Version live geschaltet.
 
+## Ionic icons v4
 
+icons können hier gefunden werden: https://ionic.io/ionicons/v4
 
 
 

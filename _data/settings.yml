@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Lena Schneider
   author__bio: Lena hier kurzer teuhuhuhxt über dikmkmkmkmkch
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/lena.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -56,7 +56,7 @@ hero:
     Diese Geschichten inspirieren mich und spiegeln sich in meinen Fotografien wider. 
   
 
-  hero__image: '/images/01-1.jpg'
+  hero__image: '/images/lena.jpg'
 
 
 #-------------------------------
