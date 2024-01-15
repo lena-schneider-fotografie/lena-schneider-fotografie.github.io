@@ -1,0 +1,36 @@
+<!-- begin portfolio -->
+<section class="section portfolio animate">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="contaniner__inner">
+  
+            <div class="section__info">
+              <h2 class="section__title">{{ site.data.settings.portfolio__settings.portfolio__title }}</h2>
+              {% if site.data.settings.portfolio__settings.portfolio__description %}
+                <p class="section__description">{{ site.data.settings.portfolio__settings.portfolio__description }}</p>
+              {% endif %}
+            </div>
+  
+            <div class="row">
+              {% for portfolio in site.portfolio %}
+              <article class="project col col-4 col-d-6 col-t-12">
+                {{ portfolio.title }}
+                {{ portfolio.description }}
+                {% for image in portfolio.images %}
+                    {{ image }}
+                {% endfor %}
+              </article>
+              {% endfor %}
+            </div>
+  
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="section__navigation">
+      <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">See all</a>
+    </div>
+</section>
+<!-- end portfolio -->

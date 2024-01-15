@@ -73,6 +73,11 @@ projects__settings:
   projects__title: Deine Geschichte - meine Pakete 
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
+#-------------------------------
+# Portfolio Settings
+portfolio__settings:
+  portfolio__title: Portfolio
+  portfolio__description: Mehr Eindrücke zu meinem Stil
 
 #-------------------------------
 # Testimonials Section

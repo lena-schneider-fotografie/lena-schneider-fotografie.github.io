@@ -28,6 +28,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  portfolio:
+    output: true
+    permalink: /portfolio/:slug
 
 # Pages Path
 defaults:
