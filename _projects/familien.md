@@ -15,7 +15,11 @@ Wie gut, dass Ihr auf mich aufmerksam geworden seid und wir das hiermit ändern 
 
 Ich finde Menschen und Familien absolut einzigartig, individuell und wunderschön. Vor allem ihre Liebe zueinander zu beobachten und festzuhalten. 
 
-Stellt euch nur mal die kleinen, funkelnden Kinderaugen vor während sie auf Mama oder Papa zurennen, Umarmungen, tränen, das Toben mit den Geschwistern.
+
+
+
+
+
 
 
 <div class="gallery-box">
