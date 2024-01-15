@@ -14,6 +14,8 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Portfolio'
+      url: '/portfolios/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Pages'

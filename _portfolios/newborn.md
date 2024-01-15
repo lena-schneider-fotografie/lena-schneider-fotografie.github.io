@@ -1,17 +1,25 @@
 ---
 title: Newborn Reportage
-description: description here
+description: kurze beschreibung wenn du willst
+image: '/images/project-3.jpg'
 images: [
-    "test1",
-    "test2"
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg",
+    "/images/portfolio/familien/familien.jpg"
 ]
 ---
 
-skkrrrr
-a
-wdawd
-aw
-da
-wda
-wd
-
+Wenn du möchtest kannst du hier noch mehr schreiben

@@ -1,11 +1,19 @@
 ---
 title: Schwangerschaft
-description: description here
+description: kurze beschreibung wenn du willst
+image: '/images/portfolio/schwangerschaft/babybauch-3.jpg'
 images: [
-    "test1",
-    "test2"
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg,
+    /images/portfolio/schwangerschaft/babybauch-3.jpg
 ]
 ---
 
-
-skkrrrr
+Wenn du möchtest kannst du hier noch mehr schreiben
