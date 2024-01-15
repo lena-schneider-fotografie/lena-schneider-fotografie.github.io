@@ -28,9 +28,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  portfolio:
+  portfolios:
     output: true
-    permalink: /portfolio/:slug
+    permalink: /portfolios/:slug
 
 # Pages Path
 defaults:
@@ -53,6 +53,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "portfolios"
+    values:
+      layout: "portfolio"
 
 sass:
   sass_dir: _sass
