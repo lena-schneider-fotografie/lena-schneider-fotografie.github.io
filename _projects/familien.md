@@ -15,6 +15,12 @@ Wie gut, dass Ihr auf mich aufmerksam geworden seid und wir das hiermit ändern 
 
 Ich finde Menschen und Familien absolut einzigartig, individuell und wunderschön. Vor allem ihre Liebe zueinander zu beobachten und festzuhalten. 
 
+Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn genau diese authentischen Momente machen eure Familiengeschichte einzigartig. 
+Eure pelzigen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. Von verspielten Hunden bis zu neugierigen Katzen. 
+
+Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
+
+Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
 
 
 
@@ -31,13 +37,9 @@ Ich finde Menschen und Familien absolut einzigartig, individuell und wunderschö
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-## zwei
+## Ablauf
 
-Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn genau diese authentischen Momente machen eure Familiengeschichte einzigartig. 
 
-Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
-
-Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
 
 
 
@@ -49,4 +51,3 @@ Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentiere
   </div>
 </div>
 
-Eure pelzigen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. Von verspielten Hunden bis zu neugierigen Katzen. 
