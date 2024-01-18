@@ -39,6 +39,17 @@ Denn gibt es etwas schöneres als die Entwicklung seiner Familie zu dokumentiere
 
 ## Ablauf
 
+Shooting 30 min.: 
+
+
+
+
+
+
+Shooting 1,5h: 
+Nach dem Eingang eurer Anfrage, sei es per E-Mail oder Whatsapp, werde ich mich schnellstmöglichst über die von euch gewählte Anfrage-Methode mit euch in Kontakt setzen.
+Mir ist es wichtig bereits vor unserem Treffen einen kleinen Einblick in euren Familien-Alltag zu bekommen um somit euer Familien-Shooting so individuell und persönlich wie möglich gestalten zu können. Ihr werdet einen Fragebogen per PDF zugesendet bekommen damit ich mich mit euren Antworten auf diesen Fragebogen besser auf eure Persönlichkeit, Vorlieben und besonderen Momente eurer Familie vorbereiten kann, um sicherzustellen, dass die Fotos eure persönliche Geschichte authentisch widerspiegeln. Eure Mitwirkung hilft mir dabei, eure Erinnerungen in Bildern festzuhalten, die für euch eine ganz besondere Bedeutung haben werden.
+
 
 
 
