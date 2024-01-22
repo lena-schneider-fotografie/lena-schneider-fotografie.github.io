@@ -10,12 +10,11 @@ price: Ab 300€
 
 Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 
 
-Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, hinüber zu dem inzwischen herangewachsenen Kleinkind, das aus dem Plappern nicht mehr herauskommt, übersäht mit blauen Flecken vom Toben und einer triefenden Rotznase. 
+Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, beginnt nun ein neues Kapitel. Es bedeutet nicht nur die Geburt eines Kindes, sondern auch die Entstehung einer Familie. Es ist eine Zeit des Werdens, des Ankommens und des gemeinsamen Aufbruchs in das Abenteuer des Elternseins. 
+Euer zu Hause wird sich ab jetzt mit der Liebe und dem Duft des Neugeborenen füllen. 
 
-Und nun fragst du dich: "Wo ist nur die Zeit geblieben?" Die Zeit, in der du, wenn möglich, stundenlang friedlich in meinen Armen geschlafen hast, ich dir beim Anziehen helfen musste und wir gemeinsam die ersten Schritte deines Lebens zelebriert haben.
-Die Zeit ist wie im Flug vergangen, und jetzt stehst du da, ein kleiner Entdecker, bereit, die Welt mit deiner Neugier zu erobern. 
-Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Lernen und Wachsen. Die Zeit mag wie Sand durch unsere Finger gleiten, aber die Erinnerungen, die wir gemeinsam schaffen, bleiben in unseren Herzen für immer.
-
+Das Wochenbett mag schnell vorübergehen, aber die Spuren, die es hinterlässt, sind von unschätzbarem Wert.
+Möge dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit und einer Fülle von unvergesslichen Augenblicken gefüllt sein.
 
 
 <div class="gallery-box">
@@ -34,7 +33,7 @@ In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts 
 
 Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
 Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
-Unser Fokus liegt auf euch und eurem Nachwuchs, das Chaos dahinter könnt ihr ausblenden. 
+Unser Fokus liegt auf euch und eurem Nachwuchs. 
 
 Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
 Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
@@ -42,8 +41,6 @@ Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwung
 
 Die Bedürfnisse eures Babys stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
 Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
-
-
 
 
 <div class="gallery-box">
