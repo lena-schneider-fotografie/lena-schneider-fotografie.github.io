@@ -8,7 +8,7 @@ photo_amount: 10 Fotos
 price: Ab 200€
 ---
 
-In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft, der Vorfreude und der natürlichen Anmut, die werdende Mütter verkörpern. Es geht darum, die Schönheit der Veränderung zu zelebrieren und die besondere Aura der Schwangerschaft in zeitlosen Aufnahmen einzufangen.
+In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft und der Vorfreude die werdende Mütter verkörpern. Es geht darum, die Schönheit der Veränderung zu zelebrieren und die besondere Aura der Schwangerschaft in zeitlosen Aufnahmen einzufangen.
 
 <div class="gallery-box">
   <div class="gallery">
