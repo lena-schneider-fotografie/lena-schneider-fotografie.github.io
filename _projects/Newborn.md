@@ -13,8 +13,7 @@ Zu Hause angekommen: Willkommen im Abenteuer des Elternseins!
 Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, hinüber zu dem inzwischen herangewachsenen Kleinkind, das aus dem Plappern nicht mehr herauskommt, übersäht mit blauen Flecken vom Toben und einer triefenden Rotznase. 
 
 Und nun fragst du dich: "Wo ist nur die Zeit geblieben?" Die Zeit, in der du, wenn möglich, stundenlang friedlich in meinen Armen geschlafen hast, ich dir beim Anziehen helfen musste und wir gemeinsam die ersten Schritte deines Lebens zelebriert haben.
-Die Zeit ist wie im Flug vergangen, und jetzt stehst du da, ein kleiner Entdecker, bereit, die Welt mit deiner Neugier zu erobern. Aber lass uns kurz innehalten und zurückblicken auf all die Momente, die uns geprägt haben. 
-
+Die Zeit ist wie im Flug vergangen, und jetzt stehst du da, ein kleiner Entdecker, bereit, die Welt mit deiner Neugier zu erobern. 
 Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Lernen und Wachsen. Die Zeit mag wie Sand durch unsere Finger gleiten, aber die Erinnerungen, die wir gemeinsam schaffen, bleiben in unseren Herzen für immer.
 
 
@@ -30,8 +29,6 @@ Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Ler
 
 Ablauf 
 
-Das erste, ganz frische Familienleben in allen Facetten. 
-
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
 In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
 
@@ -44,6 +41,7 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
 
 Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
 Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
+Unser Fokus liegt auf euch und eurem Nachwuchs, das Chaos dahinter könnt ihr ausblenden. 
 
 
 
