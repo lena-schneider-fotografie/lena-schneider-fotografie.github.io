@@ -1,14 +1,14 @@
 ---
 title: Newborn Reportage
 date: 2022-01-08 08:01:35 +0300
-subtitle: Neues Leben
+subtitle: Neues Familienleben in allen Facetten
 image: '/images/project-3.jpg'
 duration: 90min
 photo_amount: 30 Fotos
 price: Ab 300€
 ---
 
-Willkommen im Abenteuer des Elternseins! 
+Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 
 
 Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, hinüber zu dem inzwischen herangewachsenen Kleinkind, das aus dem Plappern nicht mehr herauskommt, übersäht mit blauen Flecken vom Toben und einer triefenden Rotznase. 
 
@@ -30,6 +30,20 @@ Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Ler
 
 Ablauf 
 
+Das erste, ganz frische Familienleben in allen Facetten. 
+
+Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
+In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
+
+Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
+Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
+Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwungen zu sein, etwas mit eurem Nachwuchs machen zu müssen, werde ich euch sanft anleiten, um schöne Ergebnisse einfangen zu können, die trotzdem ganz ungezwungen wirken werden.
+
+Die Bedürfnisse eures Babys stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
+Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
+
+Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
+Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
 
 
 
