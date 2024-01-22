@@ -14,6 +14,7 @@ Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die inte
 
 Und nun fragst du dich: "Wo ist nur die Zeit geblieben?" Die Zeit, in der du, wenn möglich, stundenlang friedlich in meinen Armen geschlafen hast, ich dir beim Anziehen helfen musste und wir gemeinsam die ersten Schritte deines Lebens zelebriert haben.
 Die Zeit ist wie im Flug vergangen, und jetzt stehst du da, ein kleiner Entdecker, bereit, die Welt mit deiner Neugier zu erobern. 
+
 Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Lernen und Wachsen. Die Zeit mag wie Sand durch unsere Finger gleiten, aber die Erinnerungen, die wir gemeinsam schaffen, bleiben in unseren Herzen für immer. 
 
 
