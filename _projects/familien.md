@@ -10,19 +10,11 @@ price: Ab 200€
 
 # eins
 
-Vielleicht kommt es euch bekannt vor: Mama oder Papa fehlen grundsätzlich auf den Erinnerungsfotos für’s Familienalbum. 
-Wie gut, dass Ihr auf mich aufmerksam geworden seid und wir das hiermit ändern werden! 
+Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, hinüber zu dem inzwischen herangewachsenen Kleinkind, das aus dem Plappern nicht mehr herauskommt, übersäht ist mit blauen Flecken vom Toben und einer triefenden Rotznase. 
 
-Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn genau diese authentischen Momente machen eure Familiengeschichte einzigartig. 
-Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. 
-
-Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
-
-Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
-
-
-
-
+Und nun fragst du dich: "Wo ist nur die Zeit geblieben?" Die Zeit, in der du, wenn möglich, stundenlang friedlich in meinen Armen geschlafen hast, ich dir beim Anziehen helfen musste und wir gemeinsam die ersten Schritte deines Lebens zelebriert haben.
+Die Zeit ist wie im Flug vergangen, und jetzt stehst du da, ein kleiner Entdecker, bereit, die Welt mit deiner Neugier zu erobern. 
+Das Abenteuer des Elternseins ist ein endloses Auf und Ab, eine Reise voller Lernen und Wachsen. Die Zeit mag wie Sand durch unsere Finger gleiten, aber die Erinnerungen, die wir gemeinsam schaffen, bleiben in unseren Herzen für immer.
 
 
 
@@ -37,25 +29,15 @@ Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentier
 
 ## Ablauf
 
-Shooting 30 min.: 
-Nach dem Eingang eurer Anfrage, per E-Mail oder Whatsapp, werde ich mich schnellstmöglichst über die gewählte Anfrage-Methode mit euch in Kontakt setzen.
+Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn genau diese authentischen Momente machen eure Familiengeschichte einzigartig. 
+Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. 
 
-
-
-
-
-Shooting 1,5h: 
-Nach dem Eingang eurer Anfrage, per E-Mail oder Whatsapp, werde ich mich schnellstmöglichst mit euch in Kontakt setzen.
 Mir ist es wichtig bereits vor unserem Treffen einen kleinen Einblick in euren Familien-Alltag zu bekommen um somit euer Familien-Shooting so individuell und persönlich wie möglich gestalten zu können. 
-Eure Mitwirkung hilft mir dabei, eure Erinnerungen in Bildern festzuhalten, die für euch eine ganz besondere Bedeutung haben werden. Daher bekommt ihr vorab einen Fragebogen per PDf zugesendet, damit ich mich 
+Eure Mitwirkung ist gefragt: daher erhaltet Ihr vorab einen Fragebogen als PDF, der mir dabei hilft, eure Erinnerungen in Bildern festzuhalten, die für euch eine ganz besondere Bedeutung haben werden und euch als Familie widerspiegeln.
 
+Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
 
-Ihr werdet einen Fragebogen per PDF zugesendet bekommen damit ich mich mit euren Antworten auf diesen Fragebogen besser auf eure Persönlichkeit, Vorlieben und besonderen Momente eurer Familie vorbereiten kann, um sicherzustellen, dass die Fotos eure persönliche Geschichte authentisch widerspiegeln. 
-
-
-
-
-
+Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
 
 
 <div class="gallery-box">

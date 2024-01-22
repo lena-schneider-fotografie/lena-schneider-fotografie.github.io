@@ -32,6 +32,10 @@ Ablauf
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
 In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
 
+Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
+Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
+Unser Fokus liegt auf euch und eurem Nachwuchs, das Chaos dahinter könnt ihr ausblenden. 
+
 Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
 Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
 Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwungen zu sein, etwas mit eurem Nachwuchs machen zu müssen, werde ich euch sanft anleiten, um schöne Ergebnisse einfangen zu können, die trotzdem ganz ungezwungen wirken werden.
@@ -39,9 +43,6 @@ Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwung
 Die Bedürfnisse eures Babys stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
 Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
 
-Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
-Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
-Unser Fokus liegt auf euch und eurem Nachwuchs, das Chaos dahinter könnt ihr ausblenden. 
 
 
 
