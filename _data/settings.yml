@@ -12,20 +12,20 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
+    - title: 'Pakete'
       url: '/projects/'
     - title: 'Portfolio'
       url: '/portfolios/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Pages'
+    - title: 'Mehr'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'Über Mich'
       - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+        title: 'Kontakt'
+      - url: '/impressum/'
+        title: 'Impressum'
 
 
 #-------------------------------
@@ -52,9 +52,8 @@ hero:
     <br></br>
     Für mich sind nicht nur Fotos, sondern auch die Geschichten hinter den Beziehungen von unschätzbarem Wert. 
     Jede Familie hat eine einzigartige Geschichte, von den ersten Tagen einer jungen Familie bis zu den gemeinsam verbrachten Jahren. 
-    Diese inspirieren mich und spiegeln sich in meinen Fotografien wieder. 
-  
-
+    Diese inspirieren mich und spiegeln sich in meinen Fotografien wieder.
+    
   hero__image: '/images/lena.jpg'
 
 
@@ -142,16 +141,18 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
+    - title: 'Pakete'
       url: '/projects/'
+    - title: 'Portfolio'
+      url: '/portfolios/'
     - title: 'Blog'
       url: '/blog/'
     - url: '/about/'
-      title: 'About'
+      title: 'Über Mich'
     - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+      title: 'Kontakt'
+    - url: '/impressum/'
+      title: 'Impressum'
 
 
 #-------------------------------
