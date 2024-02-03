@@ -1,11 +1,11 @@
 ---
-title: Newborn Reportage
+title: Newborn Homestory
 date: 2022-01-08 08:01:35 +0300
 subtitle: Neues Familienleben in allen Facetten
-image: '/images/project-3.jpg'
-duration: 90min
+image: '/images/portfolio/newborn/newborn-2.jpg'
+duration: 120min
 photo_amount: 30 Fotos
-price: Ab 300€
+price: Ab 350€
 ---
 
 Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 
@@ -14,7 +14,7 @@ Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die inte
 Euer zu Hause wird sich ab jetzt mit der Liebe und dem Duft des Neugeborenen füllen. 
 
 Das Wochenbett mag schnell vorübergehen, aber die Spuren, die es hinterlässt, sind von unschätzbarem Wert.
-Möge dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit und einer Fülle von unvergesslichen Augenblicken gefüllt sein.
+Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit und einer Fülle von unvergesslichen Augenblicken festgehalten wird. 
 
 
 <div class="gallery-box">
@@ -32,7 +32,7 @@ Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt.
 In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
 
 Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
-Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, die zum Dutt zusammengebunden werden, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
+Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
 Unser Fokus liegt auf euch und eurem Nachwuchs. 
 
 Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
@@ -50,6 +50,5 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+Fragen und Antworten: 
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
