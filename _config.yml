@@ -25,9 +25,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  pakete:
     output: true
-    permalink: /project/:slug
+    permalink: /pakete/:slug
   portfolios:
     output: true
     permalink: /portfolios/:slug
@@ -50,9 +50,9 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "projects"
+      type: "pakete"
     values:
-      layout: "project"
+      layout: "paket"
   - scope:
       path: ""
       type: "portfolios"

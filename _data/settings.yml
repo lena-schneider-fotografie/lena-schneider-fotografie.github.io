@@ -13,7 +13,7 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Pakete'
-      url: '/projects/'
+      url: '/pakete/'
     - title: 'Portfolio'
       url: '/portfolios/'
     - title: 'Blog'
@@ -66,10 +66,10 @@ mailchimp__button__text: Get updates
 
 
 #-------------------------------
-# Projects Settings
-projects__settings:
-  projects__title: Deine Geschichte - meine Pakete 
-  projects__description:
+# Pakete Settings
+pakete__settings:
+  pakete__title: Deine Geschichte - meine Pakete 
+  pakete__description:
 
 #-------------------------------
 # Portfolio Settings
@@ -142,7 +142,7 @@ footer_menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Pakete'
-      url: '/projects/'
+      url: '/pakete/'
     - title: 'Portfolio'
       url: '/portfolios/'
     - title: 'Blog'
