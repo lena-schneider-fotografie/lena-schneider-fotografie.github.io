@@ -66,10 +66,10 @@ mailchimp__button__text: Get updates
 
 
 #-------------------------------
-# Projects Settings
-projects__settings:
-  projects__title: Deine Geschichte - meine Pakete 
-  projects__description:
+# Pakete Settings
+pakete__settings:
+  pakete__title: Deine Geschichte - meine Pakete 
+  pakete__description:
 
 #-------------------------------
 # Portfolio Settings
