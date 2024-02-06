@@ -5,7 +5,7 @@ subtitle: Bauch voller Vorfreude
 image: '/images/portfolio/schwangerschaft/babybauch-3.jpg'
 duration:  30min
 photo_amount: 10 Fotos
-price: Ab 150€
+price: Ab 149€
 ---
 
 In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft und der Vorfreude die werdende Mütter verkörpern. Es geht darum, die Schönheit der Veränderung zu zelebrieren und die besondere Aura der Schwangerschaft in zeitlosen Aufnahmen einzufangen.

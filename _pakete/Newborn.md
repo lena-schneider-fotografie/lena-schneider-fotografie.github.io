@@ -5,7 +5,7 @@ subtitle: Neues Familienleben in allen Facetten
 image: '/images/portfolio/newborn/newborn-2.jpg'
 duration: 120min
 photo_amount: 30 Fotos
-price: Ab 350€
+price: Ab 349€
 ---
 
 Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 

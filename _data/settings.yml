@@ -83,23 +83,21 @@ testimonial__title: What clients say
 testimonial__description:
 
 testimonial__items:
-  - name: "Aspen Carder"
+  - name: "Martina S."
     image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Schwangerschaft"
+    content : "Ich kann das Babybauchshooting nur weiterempfehlen. Lena ist eine super nette & professionelle Fotografin, die mit viel Geduld & Liebe fürs Detail dabei ist!
+Lena hat eine tolle Atmosphäre geschaffen, in der ich mich gleich wohl gefühlt habe. Lieben Dank für die wunderschönen Bilder!"
 
-  - name: "Lydia Siphron"
+  - name: "Anna L."
     image: "/images/client-2.jpg"
-    designation: "Designer"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Familien"
+    content : "Wir hatten jetzt schon zwei Familienshootings bei der lieben Lena. Mein Mann und ich sind beide etwas unbeholfen vor der Kamera, aber Lena bringt so eine Gelassenheit und Freude mit, dass das überhaupt kein Problem mehr war. Wir haben uns super wohl gefühlt bei den Shootings, und auch mit unserem Zwerg ist sie ganz toll umgegangen. Lena hat ein wundervolles Auge für  Details und die kleinen schönen Momente, die einfach so passieren, ohne, dass man sich in Posen zwingen muss. Wir sind super happy mit den Bildern und werden auch in Zukunft sicher weitere Shootings buchen."
 
-  - name: "Craig Vaccaro"
+  - name: "Martina S."
     image: "/images/client-3.jpg"
-    designation: "Web developer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Newborn Homestory"
+    content : "Ich hab mich sehr gefreut, dass Lena auch das Neugeborenen Shooting unserer Sohnes gemacht hat. Unser Sohn hat sich sehr wohl gefühlt & es wurden süße Bilder im Alltag einer frisch gebackenen Familie gemacht. Lieben Dank dir!"
 
   - name: "Anika Calzoni"
     image: "/images/client-4.jpg"
@@ -126,13 +124,13 @@ blog__settings:
 gallery:
   gallery__images:
     - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
+      url: '/images/footer_gallery/footer-3.jpg'
     - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
+      url: '/images/footer_gallery/footer-2.jpg'
     - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
+      url: '/images/footer_gallery/footer-1.jpg'
     - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+      url: '/images/footer_gallery/footer-4.jpg'
 
 
 #-------------------------------

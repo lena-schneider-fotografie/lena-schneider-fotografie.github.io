@@ -5,8 +5,12 @@ subtitle: Familienglück im Fokus
 image: '/images/portfolio/familien/familien.jpg'
 duration: 30min
 photo_amount: 10 Fotos
-price: Ab 150€
+price: Ab 149€
 ---
+
+Gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
+
+Familien 
 
 Familie besteht aus Zusammenhalt, unterschiedlichen Persönlichkeiten, Unterstützung, Vertrauen, Geborgenheit, Konflikten, Harmonie, Wachstum, und so vielem mehr. Vor allem aber bedeutet Familie ein endloses Auf und Ab, eine Reise voller Lernen und Wachsen sowie Erinnerungen, die gemeinsam geschaffen werden und sich für immer in unseren Herzen festsetzen.
 
@@ -31,7 +35,7 @@ Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Le
 
 Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
 
-Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
+
 
 
 <div class="gallery-box">
