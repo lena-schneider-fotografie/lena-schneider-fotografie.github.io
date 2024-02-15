@@ -3,14 +3,14 @@ title: Newborn Homestory
 date: 2022-01-08 08:01:35 +0300
 subtitle: Neues Familienleben in allen Facetten
 image: '/images/portfolio/newborn/newborn-2.jpg'
-duration: 120min
+duration: 90 min
 photo_amount: 30 Fotos
-price: Ab 349€
+price: 359€
 ---
 
 Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 
 
-Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, beginnt nun ein neues Kapitel. Es bedeutet nicht nur die Geburt eines Kindes, sondern auch die Entstehung einer Familie. Es ist eine Zeit des Werdens, des Ankommens und des gemeinsamen Aufbruchs in das Abenteuer des Elternseins. 
+Angefangen mit der Geburt und dem darauf folgenden Wochenbett, das wohl die intensivste, emotionalste und schnelllebigste Phase im Leben einer Familie ist, beginnt nun ein neues Kapitel. Es bedeutet nicht nur die Geburt eines Kindes, sondern auch die Entstehung einer Familie.
 Euer zu Hause wird sich ab jetzt mit der Liebe und dem Duft des Neugeborenen füllen. 
 
 Das Wochenbett mag schnell vorübergehen, aber die Spuren, die es hinterlässt, sind von unschätzbarem Wert.
@@ -43,6 +43,19 @@ Die Bedürfnisse eures Babys stehen immer an erster Stelle! Für eine Pause zum 
 Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
 
 
+## Das erhaltet ihr von mir: 
+
+- Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
+- 30 bearbeitete Bilder
+- Online-Galerie mit Passwort 
+- Infoguide als perfekte Vorbereitung
+
+## Nach dem Shooting: 
+
+Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten und auswählen. 
+
+
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
@@ -50,5 +63,5 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
   </div>
 </div>
 
-Fragen und Antworten: 
+
 
