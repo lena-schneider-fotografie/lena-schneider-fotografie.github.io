@@ -52,7 +52,7 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
 
 ## Nach dem Shooting: 
 
-Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten und auswählen. 
+Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
 
 
 
