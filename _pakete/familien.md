@@ -3,7 +3,7 @@ title: Familien
 date: 2022-01-10 08:01:35 +0300
 subtitle: Familienglück im Fokus
 image: '/images/portfolio/familien/familien.jpg'
-duration: 30min
+duration: 45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
 price: 249€
@@ -33,7 +33,7 @@ Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinne
 
 ## Ablauf 
 
-Eure Familienbilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur, so dass eure Kinder genug Platz haben sich frei zu bewegen. Falls ihr euch eine andere Location vorstellen könnt, dann sprecht mich doch gerne an und wir finden eine Möglichkeit dies umzusetzen. 
+Eure Familienbilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur, so dass eure Kinder genug Platz haben sich frei zu bewegen. Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 
 
 Ich habe immer eine Decke parat, damit ihr zwischendurch gemeinsam entspannen könnt. Die kleinen Abenteurer können sich dort eine kuschelige Auszeit gönnen. Für schüchterne Kinder bietet die Decke einen Rückzugsort, um sich bei Mama und Papa aufzuwärmen und die Umgebung zu erkunden. 
 

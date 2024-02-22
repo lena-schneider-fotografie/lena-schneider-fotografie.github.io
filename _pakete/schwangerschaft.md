@@ -3,13 +3,19 @@ title: Schwangerschaft
 date: 2022-01-09 08:01:35 +0300
 subtitle: Bauch voller Vorfreude
 image: '/images/portfolio/schwangerschaft/babybauch-3.jpg'
-duration:  30min
+duration:  45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
 price: 249€
 ---
 
 In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft und der Vorfreude die werdende Mütter verkörpern.
+
+Nicht nur die werdende Mama, sondern auch der stolze werdende Papa steht bei diesem Shooting im Mittelpunkt. 
+Die Vorfreunde steigt und in wenigen Wochen wird sich euer Leben komplett verändern! Noch steht ihr zu Zweit vor meiner Linse, bald vielleicht zu dritt oder zu viert? 
+
+Doch auch wenn nur die werdende Mama anwesend ist, wird jede strahlende Emotion und jedes zarte Detail ihrer Schwangerschaft liebevoll eingefangen. 
+Jede Aufnahme erzählt die einzigartige Geschichte eurer Vorfreude und eurer wachsenden Familie.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -21,6 +27,11 @@ In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Sc
 </div>
 
 ## Ablauf 
+
+Eure Schwangerschafts-Bilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur. 
+Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 
+Die 32-35 Schwangerschaftswoche eignet sich hierfür besonders gut, da der Bauch inzwischen schön rund geworden ist.
+Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann ein Shooting bereits auch vor dem ganannten Zeitraum stattfinden. 
 
 
 
