@@ -6,7 +6,7 @@ image: '/images/portfolio/familien/familien.jpg'
 duration: 45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
-price: 249€
+price: Ab 199€
 
 ---
 

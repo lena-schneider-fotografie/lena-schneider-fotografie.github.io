@@ -6,7 +6,7 @@ image:
 duration: 90 min
 photo_amount: 30 Fotos
 Ort: nach Absprache 
-price: 359€
+price: Ab 299€
 ---
 
 Es gibt keinen ...... Zeitpunkt

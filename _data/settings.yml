@@ -131,11 +131,11 @@ blog__settings:
 gallery:
   gallery__images:
     - alt: 'Rest'
-      url: '/images/footer_gallery/footer-3.jpg'
+      url: '/images/footer_gallery/footer-1.jpg'
     - alt: 'Lifestyle'
       url: '/images/footer_gallery/footer-2.jpg'
     - alt: 'Hobby'
-      url: '/images/footer_gallery/footer-1.jpg'
+      url: '/images/footer_gallery/footer-3.jpg'
     - alt: 'Notes'
       url: '/images/footer_gallery/footer-4.jpg'
 
