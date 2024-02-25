@@ -1,6 +1,6 @@
 ---
 title: Familien
-description: kurze beschreibung wenn du willst
+description: 
 image: '/images/portfolio/familien/familien.jpg'
 images: [
     "/images/portfolio/familien/familie-4.jpg",
@@ -14,5 +14,3 @@ images: [
     "/images/portfolio/familien/familie-10.jpg"
 ]
 ---
-
-Wenn du möchtest kannst du hier noch mehr schreiben

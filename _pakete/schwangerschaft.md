@@ -2,7 +2,7 @@
 title: Schwangerschaft
 date: 2022-01-09 08:01:35 +0300
 subtitle: Bauch voller Vorfreude
-image: '/images/portfolio/schwangerschaft/babybauch-3.jpg'
+image: '/images/pakete/schwangerschaft/schwangerschaft.jpg'
 duration:  45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
@@ -19,11 +19,10 @@ Jede Aufnahme erzählt die einzigartige Geschichte eurer Vorfreude und eurer wac
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/schwangerschaft/babybauch-5.jpg" loading="lazy" alt="Project">
-    <img src="/images/portfolio/schwangerschaft/babybauch-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/portfolio/schwangerschaft/babybauch-6.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/schwangerschaft/babybauch-5.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/schwangerschaft/babybauch-4.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/schwangerschaft/babybauch-6.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 ## Ablauf 
@@ -32,11 +31,6 @@ Eure Schwangerschafts-Bilder machen wir - falls es das Wetter erlaubt - an einer
 Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 
 Die 32-35 Schwangerschaftswoche eignet sich hierfür besonders gut, da der Bauch inzwischen schön rund geworden ist.
 Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann ein Shooting bereits auch vor dem ganannten Zeitraum stattfinden. 
-
-
-
-
-
 
 
 <div class="gallery-box">

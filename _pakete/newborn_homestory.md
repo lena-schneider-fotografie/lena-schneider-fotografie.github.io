@@ -2,7 +2,7 @@
 title: Newborn Homestory
 date: 2022-01-08 08:01:35 +0300
 subtitle: Neues Familienleben in allen Facetten
-image: '/images/portfolio/newborn/newborn-2.jpg'
+image: '/images/pakete/newborn_homestory/newborn_homestory.jpg'
 duration: 90 min
 photo_amount: 30 Fotos
 price: Ab 299€
@@ -23,7 +23,6 @@ Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit u
     <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
     <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 Ablauf 

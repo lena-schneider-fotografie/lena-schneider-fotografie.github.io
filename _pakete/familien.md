@@ -2,7 +2,7 @@
 title: Familien
 date: 2022-01-10 08:01:35 +0300
 subtitle: Familienglück im Fokus
-image: '/images/portfolio/familien/familien.jpg'
+image: '/images/pakete/familien/familien.jpg'
 duration: 45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
@@ -24,9 +24,9 @@ Mein Ziel ist es, dass ihr euch noch lange an diese kostbaren Augenblicke erinne
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/familien/galerie-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/portfolio/familien/galerie-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/portfolio/familien/galerie-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/familien/galerie-2.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/familien/galerie-1.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/familien/galerie-3.jpg" loading="lazy" alt="Project">
   </div>
 
 </div>
@@ -54,7 +54,7 @@ Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schö
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/familien/galerie-4.jpg" loading="lazy" alt="Project">
+    <img src="/images/pakete/familien/galerie-4.jpg" loading="lazy" alt="Project">
 
   </div>
 </div>
