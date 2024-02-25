@@ -22,9 +22,9 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
+  # posts:
+  #   output: true 
+  #   permalink: /blog/:slug
   pakete:
     output: true
     permalink: /pakete/:slug
@@ -43,11 +43,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: "post"
   - scope:
       path: ""
       type: "pakete"
