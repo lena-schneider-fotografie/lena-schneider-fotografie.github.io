@@ -25,14 +25,14 @@ Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit u
   </div>
 </div>
 
-Ablauf 
+## Ablauf 
 
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
 In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
 
 Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
 Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
-Unser Fokus liegt auf euch und eurem Nachwuchs. 
+Denn unser Fokus liegt auf euch und eurem Nachwuchs. 
 
 Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
 Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
