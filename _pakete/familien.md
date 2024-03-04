@@ -1,6 +1,6 @@
 ---
 title: Familien
-date: 2022-01-10 08:01:35 +0300
+order: 3
 subtitle: Familienglück im Fokus
 image: '/images/pakete/familien/familien.jpg'
 duration: 45min

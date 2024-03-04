@@ -16,7 +16,8 @@ description:
  
 <div class="projects-page container animate">
   <div class="row">
-    {% for project in site.pakete reversed %}
+    {% assign sorted = site.pakete | sort: 'order' %}
+    {% for project in sorted %}
       <article class="project col col-4 col-d-6 col-t-12">
         <div class="project__content">
           <a href="{{ project.url }}" class="project__image">

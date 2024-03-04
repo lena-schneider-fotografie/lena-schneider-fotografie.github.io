@@ -13,7 +13,7 @@
           </div>
 
           <div class="row">
-            {% assign sorted = site.pakete | sort: 'date' | reverse %}
+            {% assign sorted = site.pakete | sort: 'order' %}
             {% for project in sorted limit:6 %}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">

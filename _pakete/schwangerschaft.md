@@ -1,6 +1,6 @@
 ---
 title: Schwangerschaft
-date: 2022-01-09 08:01:35 +0300
+order: 2
 subtitle: Bauch voller Vorfreude
 image: '/images/pakete/schwangerschaft/schwangerschaft.jpg'
 duration:  45min

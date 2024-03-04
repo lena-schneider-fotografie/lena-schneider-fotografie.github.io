@@ -1,12 +1,13 @@
 ---
 title: Familien Reportage
-date: 2022-01-10 08:01:35 +0300
+order: 1
 subtitle: Familiengeschichten
-image: 
+image: '/images/pakete/familien_reportage/familien-reportage-1.jpg'
 duration: 90 min
 photo_amount: 30 Fotos
 Ort: nach Absprache 
 price: Ab 299€
+
 ---
 
 Es gibt keinen ...... Zeitpunkt
