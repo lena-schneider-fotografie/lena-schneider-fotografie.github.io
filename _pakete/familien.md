@@ -6,7 +6,7 @@ image: '/images/pakete/familien/familien.jpg'
 duration: 45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
-price: Ab 199€
+price: Ab 149€
 
 ---
 
