@@ -13,7 +13,6 @@ price: Ab 149€
 Gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
 
 Familie bleibt immer Familie und doch verändert sie sich ständig. Neue Familienmitglieder werden geboren, Eltern werden zu Großeltern, die Küken der Familie werden groß oder es wird geheiratet. 
-Kurzum kann man behaupten, dass die Zeit wie Sand durch unsere Finger gleitet, aber die Erinnerungen, die wir gemeinsam schaffen, bleiben in unseren Herzen für immer. 
 
 Unser Shooting soll sich nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn wenn eure Kinder spüren, dass wir nichts von ihnen erwarten und sie völlig frei sind, sind es genau diese authentischen Momente, die ich für euch festhalten möchte. 
 Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. 
@@ -48,7 +47,7 @@ Während des Shootings werde ich euch immer wieder sanft anleiten und gebe euch 
 
 ## Nach dem Shooting: 
 
-Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
+Nach dem Shooting erhaltet ihr eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
 
 
 

@@ -49,5 +49,5 @@ Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann
 
 ## Nach dem Shooting: 
 
-Nach dem Shooting erhaltet ihr, innerhalb von 2-3 Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
+Nach dem Shooting erhaltet ihr eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
 

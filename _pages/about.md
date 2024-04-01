@@ -2,10 +2,8 @@
 layout: page
 title: Über Mich
 permalink: /about/
-image:
+image: '/images/PortraitLena-35.jpg'
+
 ---
 
-Die Fotografie hat für mich schon immer eine wichtige Rolle im Leben gespielt. 
-Mit dem Kauf meiner ersten Kamera konnte ich mich für die Landschaftsfotografie begeistern. Bald folgten dann auch Portraits, aber wirklich festlegen auf einen Bereich konnte ich mich zu diesem Zeitpunkt noch nicht. 
-Nach einem Upgrade auf eine neue Kamera und der Geburt meiner Tochter wurde mir klar, dass ich meine Position im Fotografie-Business gefunden habe! 
-Ich bereue es sehr unsere erste gemeinsame Zeit nicht dokumentarisch festgehalten zu haben ... 
+Vor vielen Jahren begann meine Begeisterung für die Landschaftsfotografie, doch schon bald darauf verspürte ich den Wunsch, auch Menschen in Bildern festzuhalten. Seitdem sind viele Jahre vergangen, und dennoch kann ich mich heute nicht auf einen bestimmten Bereich festlegen. Sowohl das Fotografieren von Portraits als auch das Einfangen des echten Lebens bereiten mir unglaublichen Spaß und erfüllen mich mit großer Freude.
