@@ -24,6 +24,8 @@ menu__settings:
         title: 'Über Mich'
       - url: '/contact/'
         title: 'Kontakt'
+      - url: '/preise/'
+        title: 'Preise'
       - url: '/impressum/'
         title: 'Impressum'
 

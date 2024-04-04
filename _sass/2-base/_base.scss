@@ -237,3 +237,12 @@ table td {
     color: var(--link-color);
   }
 }
+
+.asterisk-link {
+  color: var(--brand-color);
+  transition: color .25s ease;
+  text-decoration: dotted underline;
+  &:hover {
+    color: var(--link-color);
+  }
+}
