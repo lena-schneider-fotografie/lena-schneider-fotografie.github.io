@@ -8,7 +8,7 @@ image: '/images/about/PortraitLena-35.jpg'
 
 Vor vielen Jahren begann meine Begeisterung für die Landschaftsfotografie, doch schon bald darauf verspürte ich den Wunsch, auch Menschen in Bildern festzuhalten. Seitdem sind viele Jahre vergangen in denen ich mich in verschiedenen Bereichen ausleben und so einiges lernen konnte. Sowohl das Fotografieren von Portraits als auch das Einfangen des echten Lebens bereiten mir unglaublichen Spaß und erfüllen mich mit großer Freude! 
 
-Seit meiner Schwangerschaft und der Geburt meiner Tochter, könnte ich von mir behaupten, dass ich mich gänzlich weiterentwickelt habe. Was so eine Elternschaft eben mit einem macht! 
+Ich liebe knallige Farben
 
 
 <div class="gallery-box">

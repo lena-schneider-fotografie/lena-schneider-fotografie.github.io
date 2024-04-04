@@ -12,7 +12,7 @@ toc: true
 
 In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft und der Vorfreude die werdende Mütter verkörpern.
 
-Nicht nur die werdende Mama, sondern auch der stolze werdende Papa steht bei diesem Shooting im Mittelpunkt. 
+Nicht nur die werdende Mama, sondern auch der stolze werdende Papa und eventuelle Geschwister stehen bei diesem Shooting im Mittelpunkt. 
 Die Vorfreunde steigt und in wenigen Wochen wird sich euer Leben komplett verändern! Noch steht ihr zu Zweit vor meiner Linse, bald vielleicht zu dritt oder zu viert? 
 
 Doch auch wenn nur die werdende Mama anwesend ist, wird jede strahlende Emotion und jedes zarte Detail ihrer Schwangerschaft liebevoll eingefangen. 
