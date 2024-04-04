@@ -7,7 +7,7 @@ duration: 90 min
 photo_amount: 30 Fotos
 Ort: nach Absprache 
 price: Ab 299€
-
+toc: true
 --- 
 
 Gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 

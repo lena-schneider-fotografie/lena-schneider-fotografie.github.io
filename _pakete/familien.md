@@ -7,7 +7,7 @@ duration: 45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
 price: Ab 149€
-
+toc: true
 ---
 
 Gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 

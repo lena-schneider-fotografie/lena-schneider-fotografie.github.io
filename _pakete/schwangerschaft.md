@@ -7,6 +7,7 @@ duration:  45min
 photo_amount: 15 Fotos
 Ort: An einem Ort meiner Wahl 
 price: Ab 149€
+toc: true
 ---
 
 In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Schönheit, die von innen strahlt und sich in jeder Bewegung, jedem Lächeln und den sanften Rundungen zeigt. Ich möchte diese einzigartige Ausstrahlung festhalten, die in dieser Zeit so unverkennbar ist. Jedes Bild erzählt von der Kraft und der Vorfreude die werdende Mütter verkörpern.
