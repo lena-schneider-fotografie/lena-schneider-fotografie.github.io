@@ -229,3 +229,11 @@ table td {
 .lightense-backdrop {
   background-color: var(--background-color) !important;
 }
+
+#toc a {
+  color: var(--brand-color);
+  transition: color .25s ease;
+  &:hover {
+    color: var(--link-color);
+  }
+}

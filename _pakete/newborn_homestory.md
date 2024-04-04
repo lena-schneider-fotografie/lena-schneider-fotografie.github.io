@@ -6,6 +6,7 @@ image: '/images/pakete/newborn_homestory/newborn_homestory.jpg'
 duration: 90 min
 photo_amount: 30 Fotos
 price: Ab 299€
+toc: true
 ---
 
 Zu Hause angekommen: Willkommen im Abenteuer des Elternseins! 
