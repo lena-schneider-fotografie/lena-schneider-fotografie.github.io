@@ -2,7 +2,7 @@
 title: Newborn Homestory
 order: 4
 subtitle: Neues Familienleben in allen Facetten
-image: '/images/pakete/newborn_homestory/newborn_homestory.jpg'
+image: '/images/pakete/newborn_homestory/newborn_homestory-2.jpg'
 duration: 90 min
 photo_amount: 30 Fotos
 price: Ab 299€
