@@ -34,7 +34,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Lena Schneider
-  author__bio: 'Ich bin Lena. 28 Jahre, Mama, Hundemama und Ehefrau.
+  author__bio: 'Ich bin Lena. 29 Jahre, Mama, Hundemama und Ehefrau.
 
   <br></br>
   Bei jeder Nachricht die bei mir eintrudelt hüpft mein Herz vor Vorfreude und Aufregung. 
@@ -43,7 +43,7 @@ author:
   Das ist Fluch und Segen zugleich.
   Wenn ich allerdings meiner Leidenschaft nachgehen kann, sehe ich in jeder Begegnung eine Chance, Freude zu teilen und positive Energie zu verbreiten.'
 
-  author__avatar: '/images/PortraitLena-56.jpg'
+  author__avatar: '/images/about/PortraitLena-58-web.jpg'
 
 social:
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/lenaschneider_fotografie/"}
@@ -63,7 +63,7 @@ hero:
     Jede Familie hat eine einzigartige Geschichte, von den ersten Tagen einer jungen Familie bis zu den gemeinsam verbrachten Jahren. 
     Diese inspirieren mich und spiegeln sich in meinen Fotografien wieder.
     
-  hero__image: '/images/PortraitLena-15.jpg'
+  hero__image: '/images/about/PortraitLena-15-web.jpg'
 
 
 #-------------------------------

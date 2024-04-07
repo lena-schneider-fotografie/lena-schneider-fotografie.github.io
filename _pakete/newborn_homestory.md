@@ -52,7 +52,7 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
 
 ## Nach dem Shooting: 
 
-Nach dem Shooting erhaltet ihr eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
+Nach dem Shooting erhaltet ihr, innerhalb weniger Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
 
 
 

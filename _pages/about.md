@@ -2,7 +2,7 @@
 layout: page
 title: Über Mich
 permalink: /about/
-image: '/images/about/PortraitLena-35.jpg'
+image: '/images/about/PortraitLena-35-web.jpg'
 
 ---
 
@@ -13,9 +13,9 @@ Ich liebe knallige Farben
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/PortraitLena-28.jpg" loading="lazy" alt="Project">
-    <img src="/images/PortraitLena-58.jpg" loading="lazy" alt="Project">
-    <img src="/images/PortraitLena-2.jpg" loading="lazy" alt="Project"> 
+    <img src="/images/about/PortraitLena-28-web.jpg" loading="lazy" alt="Project">
+    <img src="/images/about/PortraitLena-56-web.jpg" loading="lazy" alt="Project">
+    <img src="/images/about/PortraitLena-2-web.jpg" loading="lazy" alt="Project"> 
     </div>
 </div>
 
