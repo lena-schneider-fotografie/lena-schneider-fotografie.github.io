@@ -31,7 +31,7 @@ Jede Aufnahme erzählt die einzigartige Geschichte eurer Vorfreude und eurer wac
 Eure Schwangerschafts-Bilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur. 
 Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 
 Die 32-35 Schwangerschaftswoche eignet sich hierfür besonders gut, da der Bauch inzwischen schön rund geworden ist.
-Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann ein Shooting bereits auch vor dem ganannten Zeitraum stattfinden. 
+Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann ein Shooting bereits auch vor dem genannten Zeitraum stattfinden. 
 
 
 <div class="gallery-box">
@@ -50,5 +50,5 @@ Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann
 
 ## Nach dem Shooting: 
 
-Nach dem Shooting erhaltet ihr, innerhalb weniger Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten, auswählen und herunterladen. 
+Nach dem Shooting erhaltet ihr, innerhalb weniger Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten und herunterladen. 
 
