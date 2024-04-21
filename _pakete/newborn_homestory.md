@@ -18,14 +18,6 @@ Das Wochenbett mag schnell vorübergehen, aber die Spuren, die es hinterlässt, 
 Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit und einer Fülle von unvergesslichen Augenblicken festgehalten wird. 
 
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
-
 ## Ablauf 
 
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
@@ -53,15 +45,5 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
 ## Nach dem Shooting: 
 
 Nach dem Shooting erhaltet ihr, innerhalb weniger Wochen, eine Auswahl der schönsten Bilder in einer Online-Galerie. Hier habt ihr die Möglichkeit, eure Favoriten auszuwählen und könnt alle Bilder ganz in Ruhe begutachten und herunterladen. 
-
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
-
 
 
