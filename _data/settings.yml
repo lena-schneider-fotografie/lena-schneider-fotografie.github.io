@@ -45,7 +45,7 @@ author:
 
 social:
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/lenaschneider_fotografie/"}
-- {icon: "ion-logo-whatsapp", link: ""}
+- {icon: "ion-logo-whatsapp", link: "https://wa.me/message/J3AXF7KLVJCGA1"}
 - {icon: "ion-ios-mail", link: "mailto:info@lenaschneider.photography"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -151,18 +151,3 @@ footer_menu__settings:
       title: 'Kontakt'
     - url: '/impressum/'
       title: 'Impressum'
-
-
-#-------------------------------
-# Contact Settings
-contact:
-  email: info@lenaschneider.photography # Add your form_id
-  handy: 01759620258
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your GA Tracking Id
