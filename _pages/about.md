@@ -6,7 +6,7 @@ image: '/images/about/PortraitLena-35-web.jpg'
 
 ---
 
-Vor vielen Jahren begann meine Begeisterung für die Landschaftsfotografie, doch schon bald darauf verspürte ich den Wunsch, auch Menschen in Bildern festzuhalten. Seitdem sind viele Jahre vergangen in denen ich mich in verschiedenen Bereichen ausleben und so einiges lernen konnte. Sowohl das Fotografieren von Portraits als auch das Einfangen des echten Lebens bereiten mir unglaublichen Spaß und erfüllen mich mit großer Freude! 
+Vor vielen Jahren begann meine Begeisterung für die Landschaftsfotografie, doch schon bald darauf verspürte ich den Wunsch, auch Menschen in Bildern festzuhalten. Seitdem ist einige Zeit vergangen in denen ich mich in verschiedenen Bereichen ausleben und so einiges lernen konnte. Sowohl das Fotografieren von Portraits als auch das Einfangen des echten Lebens bereiten mir unglaublichen Spaß und erfüllen mich mit großer Freude! 
 
 knallige Farben, sonst sehr lässig, kaum make up 
 lieblingssongs in dauerschleife ohne, dass sie mich nerven

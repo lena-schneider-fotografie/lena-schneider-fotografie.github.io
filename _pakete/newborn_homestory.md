@@ -39,7 +39,7 @@ Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse 
 Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
 Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwungen zu sein, etwas mit eurem Nachwuchs machen zu müssen, werde ich euch sanft anleiten, um schöne Ergebnisse einfangen zu können, die trotzdem ganz ungezwungen wirken werden.
 
-Die Bedürfnisse eures Babys stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
+Besonders wichtig dabei sind mir ebenso die Bedürfnisse von euch und eurem Baby. Diese stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
 Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
 
 
