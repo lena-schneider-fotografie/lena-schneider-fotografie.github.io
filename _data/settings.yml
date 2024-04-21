@@ -14,7 +14,7 @@ menu__settings:
     - title: 'Pakete'
       url: '/pakete/'
     - title: 'Portfolio'
-      url: '/portfolios/'
+      url: '/portfolio/'
     # - title: 'Blog'
     #   url: '/blog/'
     - title: 'Mehr'
@@ -81,12 +81,6 @@ pakete__settings:
   pakete__description:
 
 #-------------------------------
-# Portfolio Settings
-portfolio__settings:
-  portfolio__title: Portfolio
-  portfolio__description: Mehr Eindrücke zu meinem Stil
-
-#-------------------------------
 # Testimonials Section
 testimonial__title: Testimonials
 testimonial__description:
@@ -142,7 +136,7 @@ footer_menu__settings:
     - title: 'Preise'
       url: '/preise/'
     - title: 'Portfolio'
-      url: '/portfolios/'
+      url: '/portfolio/'
     # - title: 'Blog'
     #   url: '/blog/'
     - url: '/about/'

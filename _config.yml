@@ -29,9 +29,6 @@ collections:
   pakete:
     output: true
     permalink: /pakete/:slug
-  portfolios:
-    output: true
-    permalink: /portfolios/:slug
 
 # Pages Path
 defaults:
@@ -54,11 +51,6 @@ defaults:
       type: "pakete"
     values:
       layout: "paket"
-  - scope:
-      path: ""
-      type: "portfolios"
-    values:
-      layout: "portfolio"
 
 sass:
   sass_dir: _sass
