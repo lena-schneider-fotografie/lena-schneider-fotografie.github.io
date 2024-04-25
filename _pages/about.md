@@ -6,18 +6,19 @@ image: '/images/about/PortraitLena-35-web.jpg'
 
 ---
 
-Lass uns gemeinsam einen Blick hinter die Kamera werfen und entdecken, was mich als Person ausmacht: 
+Lasst uns gemeinsam einen Blick hinter die Kamera werfen und entdecken, wer ich bin und was mich ausmacht: 
 
-Seit Oktober 2022 hat sich mein Leben komplett auf den Kopf gestellt. Das Mamasein hat einen tiefgreifenden Einfluss auf mich und meine Sichtweise auf viele Dinge hinterlassen. Ich fühle mich mutiger, selbstbewusster und überwinde dabei Grenzen, die ich zuvor für unüberwindbar hielt.
-Hierzu gehört definitiv die Anmeldung meines Kleingewerbes Anfang 2024! 
+Ich bin Lena. 29 Jahre alt und lebe mit meinem Mann, meiner Tochter und unserem 3-jährigen Hund Morty in Sandhausen, Nähe Heidelberg. 
+
+Seit der Geburt meiner Tochter hat sich mein Leben einmal komplett auf den Kopf gestellt. Das Mamasein hat einen tiefgreifenden Einfluss auf mich und meine Sichtweise auf viele Dinge hinterlassen. Ich fühle mich mutiger, selbstbewusster und überwinde dabei Grenzen, die ich zuvor für unüberwindbar hielt.
+Hierzu gehört definitiv die Anmeldung meines Kleingewerbes.
 Meinem Pessimismus und meinen Selbstzweifeln versuche ich seither den Rücken zu kehren und das zu tun was mir am meisten Spaß macht! 
 
-Meinen Kleidungsstil würde ich als lässig und bequem beschreiben - nicht wie damals, als man sich in die viel zu enge Jeans gequetscht, oder die Jacke im Winter noch offen getragen hat, um gut auszusehen. Da ist's mir warm doch deutlich lieber! Zu Make-up greife ich selten, außer natürlich für besondere Anlässe. 
+Meinen Kleidungsstil würde ich als lässig und bequem beschreiben - nicht wie damals, als man sich in die viel zu enge Jeans gequetscht, oder die Jacke im Winter noch offen getragen hat, um gut auszusehen. Da ist's mir warm doch deutlich lieber! 
 
-Ein muss in unserem Haushalt ist Schoki. Gewappnet damit lassen sich stressige, wilde Tage deutlich leichter meistern. 
-Meine Lieblingssongs laufen oft in Dauerschleife, ohne dass sie mich je langweilen könnten. 
-Ich beherrsche nicht nur Hochdeutsch, sondern spreche auch fließend meinen regionalen Dialekt. 
+Gewappnet mit Schokolade im Haus lassen sich stressige, chaotische Tage deutlich leichter meistern! Mit dem richtigen Lied dazu kann sich meine Stimmung innerhalb weniger Sekunden ändern - das läuft dann natürlich in Dauerschleife, ohne dass es mich nervt. 
 
+Die Fotografie hat schon immer eine wichtige Rolle in meinem Leben gespielt. Mit einem Papa, der bereits im jüngsten Alter alles sorgfältig festgehalten hat, liegt mir das wohl in den Genen! Egal ob als Kind, Jugendlicher oder Erwachsenener, sind es Bilder und damit verbundene Ereignisse, an die man sich gerne wieder zurückerinnern möchte und genau das schafft die Fotografie! 
 
 Ich freue mich schon jetzt darauf, welche spannenden Geschichten ihr mitbringt und euch als Person kennenzulernen! 
 
