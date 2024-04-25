@@ -9,7 +9,7 @@ image:
 
 Meine Preise pro Paket sind nach 2 Kategorien gestaltet:
 
-- **Vergünstigt**: Für einen Preisnachlass im vergleich zum Standardpreis erlaubt ihr mir, alle Bilder des Shootings für meine Social Media Kanäle und meine Website zu verwenden.
+- **Vergünstigt**: Für einen Preisnachlass im Vergleich zum Standardpreis erlaubt ihr mir, alle Bilder des Shootings für meine Social Media Kanäle und meine Website zu verwenden.
 - **Standard**: Der Standardpreis. Nur ihr erhaltet die Bilder des Shootings.
 
 

@@ -39,7 +39,7 @@ Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby ni
 
 - Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
 - 30 bearbeitete Bilder
-- Online-Galerie mit Passwort 
+- Passwortgeschützte Onlinegalerie 
 - Infoguide als perfekte Vorbereitung
 
 ## Nach dem Shooting: 

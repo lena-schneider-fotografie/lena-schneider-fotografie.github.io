@@ -16,7 +16,7 @@ Meinem Pessimismus und meinen Selbstzweifeln versuche ich seither den Rücken zu
 
 Meinen Kleidungsstil würde ich als lässig und bequem beschreiben - nicht wie damals, als man sich in die viel zu enge Jeans gequetscht, oder die Jacke im Winter noch offen getragen hat, um gut auszusehen. Da ist's mir warm doch deutlich lieber! 
 
-Gewappnet mit Schokolade im Haus lassen sich stressige, chaotische Tage deutlich leichter meistern! Mit dem richtigen Lied dazu kann sich meine Stimmung innerhalb weniger Sekunden ändern - das läuft dann natürlich in Dauerschleife, ohne dass es mich nervt. 
+Gewappnet mit Schokolade im Haus lassen sich stressige, chaotische Tage deutlich leichter meistern! Mit dem richtigen Lied kann sich meine Stimmung innerhalb weniger Sekunden ändern - das läuft dann natürlich in Dauerschleife, ohne dass es mich nervt. 
 
 Die Fotografie hat schon immer eine wichtige Rolle in meinem Leben gespielt. Mit einem Papa, der bereits im jüngsten Alter alles sorgfältig festgehalten hat, liegt mir das wohl in den Genen! Egal ob als Kind, Jugendlicher oder Erwachsenener, sind es Bilder und damit verbundene Ereignisse, an die man sich gerne wieder zurückerinnern möchte und genau das schafft die Fotografie! 
 

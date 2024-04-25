@@ -33,19 +33,11 @@ Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne d
 Die 32-35 Schwangerschaftswoche eignet sich hierfür besonders gut, da der Bauch inzwischen schön rund geworden ist.
 Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann ein Shooting bereits auch vor dem genannten Zeitraum stattfinden. 
 
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
-
 ## Das erhaltet ihr von mir: 
 
 - Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
 - 15 bearbeitete Bilder
-- Online-Galerie mit Passwort 
+- Passwortgeschützte Onlinegalerie  
 - Infoguide als perfekte Vorbereitung
 
 ## Nach dem Shooting: 
