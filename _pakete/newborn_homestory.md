@@ -21,19 +21,16 @@ Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit u
 ## Ablauf 
 
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
-In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen. Jeden Tag verändert sich das Baby: sie werden wacher, aufmerksamer und wachsen schneller als uns lieb ist. 
+In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen.
+Verfallt aber nicht in Panik, wenn es nicht innerhalb dieses Zeitraums klappt! 
 
 Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher nicht den Feger schwingen, was Ihr, liebe Mami’s, sowieso nicht tun solltet. 
 Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
 Denn unser Fokus liegt auf euch und eurem Nachwuchs. 
 
-Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
-Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
-Bilder entstehen oft spontan. Um euch jedoch nicht das Gefühl zu geben, gezwungen zu sein, etwas mit eurem Nachwuchs machen zu müssen, werde ich euch sanft anleiten, um schöne Ergebnisse einfangen zu können, die trotzdem ganz ungezwungen wirken werden.
-
-Besonders wichtig dabei sind mir ebenso die Bedürfnisse von euch und eurem Baby. Diese stehen immer an erster Stelle! Für eine Pause zum Stillen oder Wickeln haben wir genug Zeit eingeplant. 
-Generell jedoch gilt: Wenn ihr euch mit etwas nicht wohlfühlt oder euer Baby nicht mag, wird es nicht gemacht. Dasselbe gilt für unnatürliche und komplizierte Posen – diese werdet ihr bei mir nicht finden. 
-
+Ein großes Anliegen ist mir ebenfalls die Kommunikation! Um uns allen eine entspannte und schöne Zeit zu ermöglichen, sollten wir vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
+Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
+Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge, steht unserem Shooting nichts mehr im Wege! 
 
 ## Das erhaltet ihr von mir: 
 
