@@ -12,27 +12,23 @@ toc: true
 
 ... damit dein Kind sich erinnern kann. 
 
-Wie muss es sich anfühlen, nach vielen Jahren auf Bildern zu sehen, wie man als Baby in den Armen der Eltern lag, die ersten Schritte wagte und die Welt mit neugierigen Augen entdeckte? Oder, von Kuscheltieren umgeben gewesen zu sein, die eine tröstende Hand boten. Die ersten Schritte unsicher und doch voller Entdeckungslust, begleitet von den aufgeregten Stimmen der stolzen Eltern, die jeden Schritt festhalten wollten. Und die ersten blauen Flecken, die kleinen Zeichen von Abenteuern und mutigen Erkundungen, die zeigen, wie tapfer dein Kind die Welt entdeckt hat. 
-Ich könnte noch mehr solcher Momente aufzählen! Mal ganz davon abgesehen, dass diese Fotos nicht nur für dein Kind, sondern auch für dich als Elternteil kostbare Schätze sind, die die Zeit festhalten und euch immer wieder an diese unvergesslichen Momente erinnern. 
-
-Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
-
-Ein großes Anliegen ist mir ebenfalls die Kommunikation! Um uns allen eine entspannte und schöne Zeit zu ermöglichen, sollten wir vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
-Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
-Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege! 
+Es gibt zahllose Ereignisse die es sich lohnt festzuhalten. Nicht nur für dein Kind, sondern auch für dich als Elternteil. 
+Dabei spielt das Alter deiner Kinder keine Rolle! Jeder Lebensabschnitt ist für dein Kind sowie für dich besonders und auch wenn sich Erinnerungen im Laufe der Zeit verändern können, bleiben die entstandenen Fotos dieser Momente bestehen. Selbst in jungen Jahren, wenn die Erinnerungen noch nicht so klar sind, sind Fotos wichtige Werkzeuge, um die einzigartigen Erfahrungen und Bindungen festzuhalten, die ihr gemeinsam teilt.
 
 Unser Shooting soll sich daher nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn wenn eure Kinder spüren, dass wir nichts von ihnen erwarten und sie völlig frei sind, sind es genau diese authentischen Momente, die ich für euch festhalten möchte. 
+
 Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. 
 
 Mein Ziel ist es, dass ihr euch noch lange an diese Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
 
+Denn gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren und dabei in Erinnerungen zu schwelgen? 
+
 ## Ablauf
 
-
-Mir ist es wichtig bereits vor unserem Treffen einen kleinen Einblick in euren Familien-Alltag zu bekommen um somit euer Shooting so individuell und persönlich wie möglich gestalten zu können. Dies können wir am besten bei einem Kennenlernen herausfinden. 
-
-Eine Grundlegende Voraussetzung für unser Shooting ist viel Licht. Daher lasse ich mich bei meiner Ankunft durch eure Wohnung führen, damit ich einschätzen kann, wo dieses am schönsten fällt. 
-Fotografieren werde ich ausschließlich mit natürlichem Licht und keinem störenden Blitzlicht. 
+Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
+Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
+Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
+Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
 
 ## Das erhaltet ihr von mir: 
 
