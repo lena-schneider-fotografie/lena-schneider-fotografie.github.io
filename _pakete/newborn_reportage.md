@@ -1,5 +1,5 @@
 ---
-title: Newborn Homestory
+title: Newborn Reportage
 order: 4
 subtitle: Neues Familienleben in allen Facetten
 image: '/images/pakete/newborn_homestory/newborn_homestory-2.jpg'

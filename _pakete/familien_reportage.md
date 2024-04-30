@@ -1,5 +1,5 @@
 ---
-title: Familien Homestory
+title: Familien Reportage
 order: 1
 subtitle: Familiengeschichten
 image: '/images/pakete/familien_reportage/familien-reportage-1.jpg'
