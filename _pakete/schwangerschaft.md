@@ -3,10 +3,10 @@ title: Schwangerschaft
 order: 2
 subtitle: Bauch voller Vorfreude
 image: '/images/pakete/schwangerschaft/schwangerschaft.jpg'
-duration:  45min
+duration:  30min
 photo_amount: 10 Fotos
 Ort: An einem Ort meiner Wahl 
-price: Ab 149€
+price: Ab 199€
 toc: true
 ---
 

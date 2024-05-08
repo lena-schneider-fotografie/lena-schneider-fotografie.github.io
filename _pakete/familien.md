@@ -3,10 +3,10 @@ title: Familien
 order: 3
 subtitle: Familienglück im Fokus
 image: '/images/pakete/familien/familien.jpg'
-duration: 45min
+duration: 30min
 photo_amount: 10 Fotos
 Ort: An einem Ort meiner Wahl 
-price: Ab 149€
+price: Ab 199€
 toc: true
 ---
 
