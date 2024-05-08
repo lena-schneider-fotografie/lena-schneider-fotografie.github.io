@@ -4,7 +4,7 @@ order: 2
 subtitle: Bauch voller Vorfreude
 image: '/images/pakete/schwangerschaft/schwangerschaft.jpg'
 duration:  45min
-photo_amount: 15 Fotos
+photo_amount: 10 Fotos
 Ort: An einem Ort meiner Wahl 
 price: Ab 149€
 toc: true
@@ -36,7 +36,7 @@ Für mich ist es allerdings viel wichtiger, dass ihr euch wohlfühlt! Daher kann
 ## Das erhaltet ihr von mir: 
 
 - Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
-- 15 bearbeitete Bilder
+- 10 Bilder bearbeitet und in voller Auflösung, ohne Wasserzeichen 
 - Passwortgeschützte Onlinegalerie  
 - Infoguide als perfekte Vorbereitung
 

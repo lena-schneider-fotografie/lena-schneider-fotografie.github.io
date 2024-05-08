@@ -4,7 +4,7 @@ order: 3
 subtitle: Familienglück im Fokus
 image: '/images/pakete/familien/familien.jpg'
 duration: 45min
-photo_amount: 15 Fotos
+photo_amount: 10 Fotos
 Ort: An einem Ort meiner Wahl 
 price: Ab 149€
 toc: true
@@ -39,7 +39,7 @@ Während des Shootings werde ich euch immer wieder sanft anleiten und gebe euch 
 ## Das erhaltet ihr von mir: 
 
 - Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
-- 15 bearbeitete Bilder
+- 10 Bilder bearbeitet und in voller Auflösung, ohne Wasserzeichen 
 - Passwortgeschützte Onlinegalerie  
 - Infoguide als perfekte Vorbereitung
 

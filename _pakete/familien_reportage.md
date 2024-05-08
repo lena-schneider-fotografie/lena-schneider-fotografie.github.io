@@ -33,7 +33,7 @@ Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben 
 ## Das erhaltet ihr von mir: 
 
 - Vorgespräch in dem wir eure gemeinsamen Wünsche, Vorstellungen und Details besprechen
-- 30 bearbeitete Bilder
+- 30 Bilder bearbeitet und in voller Auflösung, ohne Wasserzeichen 
 - Passwortgeschützte Onlinegalerie  
 - Infoguide als perfekte Vorbereitung
 
