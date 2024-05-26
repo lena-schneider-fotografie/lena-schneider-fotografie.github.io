@@ -18,5 +18,5 @@ Meine Preise pro Paket sind nach 2 Kategorien gestaltet:
 | --- | --- | --- |
 | Familien | 199€ | 249€ |
 | Schwangerschaft | 199€ | 249€ |
-| Familien Homestory | 299€ | 349€ |
-| Newborn Homestory | 299€ | 349€ |
+| Familien Homestory | 349€ | 399€ |
+| Newborn Homestory | 349€ | 399€ |

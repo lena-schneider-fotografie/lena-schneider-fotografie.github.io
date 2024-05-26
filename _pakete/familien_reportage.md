@@ -6,7 +6,7 @@ image: '/images/pakete/familien_reportage/familien-reportage-1.jpg'
 duration: 90 min
 photo_amount: 30 Fotos
 Ort: nach Absprache 
-price: Ab 299€
+price: Ab 349€
 toc: true
 --- 
 
