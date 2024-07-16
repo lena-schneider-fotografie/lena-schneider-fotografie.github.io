@@ -20,6 +20,11 @@ Ich möchte, dass dieses Kapitel im Buch eurer Familie mit Liebe, Geborgenheit u
 
 ## Ablauf 
 
+Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
+Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
+Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
+Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
+
 Euer Newborn-Shooting findet im Idealfall in den ersten 14 Lebenstagen statt. 
 In dieser Zeit schlafen die kleinen noch sehr viel und lassen sich durch nichts aus der Ruhe bringen.
 Verfallt jetzt aber nicht in Panik, wenn es nicht innerhalb dieses Zeitraums klappt! Wir können egal zu welchem Zeitpunkt schöne Erinnerungen schaffen!  

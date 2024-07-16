@@ -15,9 +15,6 @@ In der Schwangerschaft offenbart sich eine ganz besondere Schönheit – eine Sc
 Nicht nur die werdende Mama, sondern auch der stolze werdende Papa und eventuelle Geschwister stehen bei diesem Shooting im Mittelpunkt. 
 Die Vorfreunde steigt und in wenigen Wochen wird sich euer Leben komplett verändern! Noch steht ihr zu Zweit vor meiner Linse, bald vielleicht zu dritt oder zu viert? 
 
-Doch auch wenn nur die werdende Mama anwesend ist, wird jede strahlende Emotion und jedes zarte Detail ihrer Schwangerschaft liebevoll eingefangen. 
-Jede Aufnahme erzählt die einzigartige Geschichte eurer Vorfreude und eurer wachsenden Familie.
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/pakete/schwangerschaft/babybauch-5.jpg" loading="lazy" alt="Project">
@@ -27,6 +24,10 @@ Jede Aufnahme erzählt die einzigartige Geschichte eurer Vorfreude und eurer wac
 </div>
 
 ## Ablauf 
+Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
+Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
+Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
+Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
 
 Eure Schwangerschafts-Bilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur. 
 Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 

@@ -13,7 +13,7 @@ toc: true
 ... damit dein Kind sich erinnern kann. 
 
 Es gibt zahllose Ereignisse die es sich lohnt festzuhalten. Nicht nur für dein Kind, sondern auch für dich als Elternteil. 
-Dabei spielt das Alter deiner Kinder keine Rolle! Jeder Lebensabschnitt ist für dein Kind sowie für dich besonders und auch wenn sich Erinnerungen im Laufe der Zeit verändern können, bleiben die entstandenen Fotos dieser Momente bestehen. Selbst in jungen Jahren, wenn die Erinnerungen noch nicht so klar sind, sind Fotos wichtige Werkzeuge, um die einzigartigen Erfahrungen und Bindungen festzuhalten, die ihr gemeinsam teilt.
+Dabei spielt das Alter deiner Kinder keine Rolle! Jeder Lebensabschnitt ist für dein Kind sowie für dich besonders und auch wenn sich Erinnerungen im Laufe der Zeit verändern können, bleiben die entstandenen Fotos dieser Momente bestehen. Selbst in jungen Jahren, wenn die Erinnerungen noch nicht so klar sind, sind Fotos wichtige Werkzeuge, um die Erfahrungen und Bindungen festzuhalten, die ihr gemeinsam teilt.
 
 Unser Shooting soll sich daher nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn wenn eure Kinder spüren, dass wir nichts von ihnen erwarten und sie völlig frei sind, sind es genau diese authentischen Momente, die ich für euch festhalten möchte. 
 

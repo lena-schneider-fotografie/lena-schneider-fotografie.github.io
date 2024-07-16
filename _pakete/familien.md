@@ -32,6 +32,11 @@ Mein Ziel ist es, dass ihr euch noch lange an diese Augenblicke erinnert und jed
 
 ## Ablauf 
 
+Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
+Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
+Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
+Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
+
 Eure Familienbilder machen wir - falls es das Wetter erlaubt - an einer schönen Location in der Natur, so dass eure Kinder genug Platz haben sich frei zu bewegen. Falls ihr euch eine andere Location vorstellen könnt, dann erzählt mir gerne davon! 
 
 Während des Shootings werde ich euch immer wieder sanft anleiten und gebe euch kleine "Aufgaben". Damit versuche ich die Atmosphäre etwas aufzulockern, damit keiner das Gefühl hat, steif posieren zu müssen oder sich gezwungen fühlt in die Kamera zu schauen. 
