@@ -33,10 +33,6 @@ Um eure Reportage so individuell wie möglich zu gestalten, braucht ihr vorher n
 Zu eurem neuen Familienleben gehört in diesen Wochen nunmal das ungemachte Bett, die ungemachten Haare, das Chaos in der Küche oder dem Wickeltisch. Eure Bilder dürfen direkt aus dem Leben kommen und so euer Hier und Jetzt festhalten. 
 Denn unser Fokus liegt auf euch und eurem Nachwuchs. 
 
-Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
-Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
-Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
-Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
 
 ## Das erhaltet ihr von mir: 
 
