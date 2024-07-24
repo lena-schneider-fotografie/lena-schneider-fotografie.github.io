@@ -24,7 +24,7 @@ Die Vorfreunde steigt und in wenigen Wochen wird sich euer Leben komplett verän
 </div>
 
 ## Ablauf 
-Um uns allen eine enstpannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
+Um uns allen eine entspannte und schöne Zeit zu ermöglichen ist mir ein Thema besonders wichtig: Kommunikation! 
 Wir sollten vorab die Chance haben ein offenes, ehrliches Gespräch zu führen. Somit können vielerlei Fragen im Voraus besprochen werden. 
 Was sind eure Vorstellungen? Was wünscht ihr euch von mir? Kann ich euch das bieten, wonach ihr sucht? 
 Sollten danach keine weiteren Fragen mehr offen sein und wir sind auf derselben Wellenlänge steht unserem Shooting nichts mehr im Wege!
