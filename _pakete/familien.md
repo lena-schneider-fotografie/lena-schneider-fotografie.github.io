@@ -14,7 +14,7 @@ Gibt es etwas Schöneres, als die Entwicklung seiner Familie zu dokumentieren un
 
 Familie bleibt immer Familie und doch verändert sie sich ständig. Neue Familienmitglieder werden geboren, Eltern werden zu Großeltern, die Küken der Familie werden groß oder es wird geheiratet. 
 
-Unser Shooting soll sich daher nicht wie ein Termin anfühlen, sondern eher wie ein Treffen unter Freunden. Lasst eure Kinder herumtollen, lachen, weinen – denn wenn eure Kinder spüren, dass wir nichts von ihnen erwarten und sie völlig frei sind, sind es genau diese authentischen Momente, die ich für euch festhalten möchte. 
+Inmitten all dieser Veränderungen gestalten wir das Shooting so, dass es sich wie ein entspanntes Zusammensein anfühlt, statt wie ein weiterer Termin im Kalender. Lasst eure Kinder herumtollen, lachen, weinen – denn wenn eure Kinder spüren, dass wir nichts von ihnen erwarten und sie völlig frei sind, sind es genau diese authentischen Momente, die ich für euch festhalten möchte. 
 Eure tierischen Familienmitglieder sind ebenfalls ein wesentlicher Teil eures Lebens. Lasst uns gemeinsam die Liebe und Freude einfangen, die eure Haustiere in eure Familie bringen. 
 
 Mein Ziel ist es, dass ihr euch noch lange an diese Augenblicke erinnert und jedes Mal ein Lächeln auf den Lippen habt, wenn das Familienalbum gezückt wird.
