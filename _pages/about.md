@@ -8,7 +8,7 @@ image: '/images/about/PortraitLena-35-web.jpg'
 
 Lasst uns gemeinsam einen Blick hinter die Kamera werfen und entdecken, wer ich bin und was mich ausmacht: 
 
-Ich bin Lena. 29 Jahre alt und lebe mit meinem Mann, meiner Tochter und unserem 3-jährigen Hund Morty in Sandhausen, Nähe Heidelberg. 
+Ich bin Lena. 29 Jahre alt und lebe mit meinem Mann, meiner Tochter und unserem Hund Morty in Sandhausen, Nähe Heidelberg. 
 
 Seit der Geburt meiner Tochter hat sich mein Leben einmal komplett auf den Kopf gestellt. Das Mamasein hat einen tiefgreifenden Einfluss auf mich und meine Sichtweise auf viele Dinge hinterlassen. Ich fühle mich mutiger, selbstbewusster und überwinde dabei Grenzen, die ich zuvor für unüberwindbar hielt.
 Hierzu gehört definitiv die Anmeldung meines Kleingewerbes.
