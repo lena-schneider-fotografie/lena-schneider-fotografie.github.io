@@ -2,7 +2,7 @@
 title: Individuelle Anfrage
 order: 5
 subtitle: 
-image: '/images/individuelle_anfrage/Anfrage_1.jpg
+image: '/images/individuelle_anfrage/Anfrage_1.jpg'
 duration: 
 photo_amount: 
 price: 
