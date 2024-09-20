@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mein Portfolio
-permalink: /portfolio/
+title: "Mein Portfolio: Familien"
+permalink: /portfolio/familien
 image:
 ---
 
@@ -47,6 +47,5 @@ image:
       <img src="/images/portfolio/familien/familie-2-2.jpg" loading="lazy" alt="a"/>
       <img src="/images/portfolio/familien/babybauch-5.jpg" loading="lazy" alt="a"/>
        <img src="/images/portfolio/familien/familie-3.jpg" loading="lazy" alt="a"/>
-      
   </div>
 </div>
